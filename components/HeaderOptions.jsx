@@ -23,7 +23,7 @@ function HeaderOptions() {
 
       {/* Right */}
       <div className="flex space-x-4">
-        <p className="link">Setting</p>
+        <p className="link">Settings</p>
         <p className="link">Tools</p>
       </div>
     </div>
